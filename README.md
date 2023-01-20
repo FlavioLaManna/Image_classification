@@ -5,7 +5,7 @@ In this homework we were required to classify species of plants which were divid
 We wrote a report to describe our developing process, the projectual choices, the solutions with which we came up and the results.\
 We got 5/5 points.\
 
-###Group: F2ANN_Polimi\
+### Group: F2ANN_Polimi\
 Alberto Aniballi, Andrea Bosisio, Flavio La Manna 
 
 
